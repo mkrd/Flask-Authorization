@@ -1,0 +1,2 @@
+class Authorize(object):
+    pass
