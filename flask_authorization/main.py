@@ -1,2 +1,2 @@
 class Authorize(object):
-    pass
+    def __init__(self):

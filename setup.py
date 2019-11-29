@@ -12,7 +12,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="Flask-Authorization",
-    version="1.6",
+    version="1.1",
     url="https://github.com/mkrd/flask-authorization",
     license="MIT License",
     author="Marcel Kröker",
