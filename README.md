@@ -1,4 +1,9 @@
 # Flask-Authorization
+
+[![Downloads](https://pepy.tech/badge/flask-authorization)](https://pepy.tech/project/flask-authorization)
+[![Downloads](https://pepy.tech/badge/flask-authorization/month)](https://pepy.tech/project/flask-authorization)
+[![Downloads](https://pepy.tech/badge/flask-authorization/week)](https://pepy.tech/project/flask-authorization)
+
 Simple user authorization to use alongside with Flask-Login.
 
 ## Installation
