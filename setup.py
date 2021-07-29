@@ -1,8 +1,8 @@
 """
-Flask-Squeeze
--------------
+Flask-Authorization
+-------------------
 
-Automatically minify JS/CSS and crompress all responses with brotli, with caching for static assets.
+Simple user authorization by permissions to use alongside with Flask-Login.
 """
 import setuptools
 
