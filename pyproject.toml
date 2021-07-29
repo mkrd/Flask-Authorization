@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "flask-authorization"
 repository = "https://github.com/mkrd/flask-authorization"
-version = "1.4"
+version = "1.5"
 description = "Simple user authorization to use alongside with Flask-Login"
 readme = "README.md"
 authors = ["Marcel Kröker <kroeker.marcel@gmail.com>"]
@@ -9,7 +9,7 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-flask = "^1.1.2"
+flask = "^2.0.0"
 flask-login = "^0.5.0"
 
 [tool.poetry.dev-dependencies]
